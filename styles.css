@@ -26,6 +26,7 @@ header .nav-links {
   display: flex;
   gap: 1rem;
 }
+...
 
 header .nav-links a {
   color: #fff;
